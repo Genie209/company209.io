@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: "Lexend Mega", sans-serif;
+    color: blue;
+    background-color: whitesmoke;
+    font-size: 22px;
+    text-align: center;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
